@@ -31,7 +31,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [mjrvas-dev](https://github.com/mjrvas-dev/Portfolio-jr). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [mjrvas-dev](https://github.com/mjrvas-dev/portfolio-jr). Thanks!
 
 ## Built With
 
