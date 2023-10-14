@@ -7,9 +7,9 @@
 
 <div align="center">
     🔹 
-  <a href="https://github.com/mjrvas-dev/protfolio-jr/issues">Report Bug</a> &nbsp; &nbsp;
+  <a href="https://github.com/mjrvas-dev/portfolio-jr/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-  <a href="https://github.com/mjrvas-dev/protfolio-jr/issues">Request Feature</a>
+  <a href="https://github.com/mjrvas-dev/portfolio-jr/issues">Request Feature</a>
 </div>
 
 <div align="center">
@@ -18,8 +18,8 @@
     <br />
     <br />
   
-![GitHub Repo stars](https://img.shields.io/github/stars/mjrvas-dev/protfolio-jr?color=red&logo=github&style=for-the-badge) &nbsp;
-  ![GitHub forks](https://img.shields.io/github/forks/mjrvas-dev/protfolio-jr?color=red&logo=github&style=for-the-badge)<em></em>
+![GitHub Repo stars](https://img.shields.io/github/stars/mjrvas-dev/portfolio-jr?color=red&logo=github&style=for-the-badge) &nbsp;
+  ![GitHub forks](https://img.shields.io/github/forks/mjrvas-dev/portfolio-jr?color=red&logo=github&style=for-the-badge)<em></em>
 
   </sup>
   <br />
