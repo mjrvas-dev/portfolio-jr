@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* background: #312e81; */
+  background: linear-gradient(
+    90.21deg,
+    rgba(37, 99, 235, 1) -5.91%,
+    rgba(23, 37, 84, 1) 111.58%
+  );
+  color: #fff;
+}
+
+::selection {
+  background-color: rgba(67, 56, 202, 1);
+}
+
+#cover {
+  background: linear-gradient(
+    90.21deg,
+    rgba(37, 99, 235, 1) -5.91%,
+    rgba(23, 37, 84, 1) 111.58%
+  );
+  display: flex;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.currentIconPage svg {
+  stroke: #2dd4bf;
+  fill: #2dd4bf;
+}
+
+.swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
+.swiper-pagination-horizontal.swiper-pagination-bullets
+  .swiper-pagination-bullet {
+  background-color: #84cc16;
+}
